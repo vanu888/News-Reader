@@ -37,10 +37,10 @@ Here is how the app looks:
   <img src="screenshots/light_mode.png" width="250" /> 
 </p>
 <p align="center">
-  <img src="screenshots/feeds_screen.png" width="250" />
-  <img src="screenshots/categories_screen.png" width="250" /> 
-  <img src="screenshots/favorites_screen.png" width="250" /> 
-  <img src="screenshots/settings_screen.png" width="250" /> 
+  <img src="screenshots/feeds_screen.png" width="200" />
+  <img src="screenshots/categories_screen.png" width="200" /> 
+  <img src="screenshots/favorites_screen.png" width="200" /> 
+  <img src="screenshots/settings_screen.png" width="200" /> 
 </p>
 
 ## Getting Started
