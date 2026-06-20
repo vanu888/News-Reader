@@ -1,0 +1,56 @@
+# Gradle files
+
+.gradle/
+build/
+*/build/
+
+# Local configuration file (contains API keys, SDK path, etc.)
+
+local.properties
+
+# IntelliJ IDEA / Android Studio workspace files
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+OS-specific files
+
+.DS_Store
+Thumbs.db
+
+# Android build outputs
+
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# C/C++ build outputs (NDK)
+
+.externalNativeBuild/
+.cxx/
+
+# Profiling and logs
+
+*.log
+*.hprof
+/captures/
+
+# Eclipse project files 
+
+bin/
+gen/
+out/
+.navigation/
+
+# Keystore files 
+
+*.jks
+*.keystore
+
+# Google Services 
+
+google-services.json
