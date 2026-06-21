@@ -33,8 +33,8 @@ A modern, open-source Android RSS news reader built with Jetpack Compose and Mat
 Here is how the app looks:
 
 <p align="center">
-  <img src="screenshots/home_screen.png" width="250" />
-  <img src="screenshots/light_mode.png" width="250" /> 
+  <img src="screenshots/home_screen.png" width="200" />
+  <img src="screenshots/light_mode.png" width="200" /> 
 </p>
 <p align="center">
   <img src="screenshots/feeds_screen.png" width="200" />
